@@ -1,1 +1,3 @@
-# personal-website
+# Kaitlyn's Personal Website
+
+This is the repository for my personal website (in-progress)!
