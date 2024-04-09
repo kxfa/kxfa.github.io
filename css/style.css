@@ -17,3 +17,8 @@ h1 {
 p {
     font-family: Poppins;
 }
+
+img {
+    width: 200px;
+    height: 400px;
+}
